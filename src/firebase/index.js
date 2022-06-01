@@ -7,6 +7,17 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 
+
+// firebase account config your should be different than me. 
+//  {
+//     apiKey: "***********",
+//     authDomain: "**********",
+//     projectId: "***************",
+//     storageBucket: "**************",
+//     messagingSenderId: "****************",
+//     appId: "**************************"
+// };
+
 import firebaseConfig from "./config"
 
 
